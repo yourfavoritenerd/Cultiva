@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158664534527",
+    "firebase_url": "https://tangerine-b7acd.firebaseio.com",
+    "project_id": "tangerine-b7acd",
+    "storage_bucket": "tangerine-b7acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158664534527:android:020178dcfb31a5e70a9fca",
+        "android_client_info": {
+          "package_name": "mz.twobusiness.Tangerine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158664534527-ue125olv4flq42k9game7ttt57lodjd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbW7W7K516ELqXDQb_A-dl75JSIs-dCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158664534527-ue125olv4flq42k9game7ttt57lodjd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
